@@ -1,0 +1,2 @@
+# imodelstwod
+Mock environment for work. It will contain a 2D version of the iTransformation. Each model is some object like text, lines, squares and so on. You can run sql commands on these to filter the objects by their nature. For example you could get only the text of that file, or only the lines. It could pottentially be usefull for the schemes and stuff like that transformations and collaboration.
